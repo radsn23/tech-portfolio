@@ -12,3 +12,4 @@ You can list [links](https://www.hashicorp.com/resources/test-driven-development
 or even embed images with the following Markdown:
 
 ![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/giphy.mp4)
